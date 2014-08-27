@@ -1,0 +1,11 @@
+HELP
+
+The game is designed such that in each column a spider is present at all times. The cannon , red basket and green basket can be selected using b,r,g respectively as specified. They are not highlighted yet .  The cannon can fire the laser on pressing spacebar. P can be used to pause/unpause and q is used to exit. The left and right arrow keys are used to move the baskets and the cannon around.
+
+
+The cannon fires in intervals of 1 second.if a spider falls on the cannon the game is over. If a spider reaches the ground, it blocks that space and none of the other objects except the next spider can use that space.
+
+
+
+
+
